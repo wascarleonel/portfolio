@@ -26,9 +26,9 @@
 	position:absolute;
 	top:0;
 	left:0;
-  width:120px;
+  width:220px;
 	font-weight:bold;
-	font-size:13px;
+	font-size:10x;
 	color:#ffffff;
 	background:#6adcfa;
 	-webkit-border-top-left-radius:3px;
@@ -37,7 +37,7 @@
 	-moz-border-radius-bottomleft:3px;
 	border-top-left-radius:3px;
   border-bottom-left-radius:3px;
-  font-size: 1.1rem;
+  
 }
 
 .skillbar-title span {
