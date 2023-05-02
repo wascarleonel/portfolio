@@ -28,6 +28,7 @@ let render_projects = (slug) => {
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
             categories: ['featured', 'webdev']
         },
+/**
         {
             image: 'assets/images/collage.jpg',
             link: 'https://github.com/abhn/Marvel',
@@ -46,7 +47,8 @@ let render_projects = (slug) => {
             description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
             categories: ['featured', 'security']
         },
-        {
+   **/
+   {
             image: 'assets/images/social-share-count.jpeg',
             link: 'https://github.com/abhn/Social-Share-Counts',
             title: 'Social Share Count',
