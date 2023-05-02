@@ -32,17 +32,8 @@ let render_projects = (slug) => {
         },
 
  /**  =================================================================== **/
-        
-        {
-            image: 'assets/images/Editor 1.jpg',
-            link: 'https://google.com',
-            title: 'Mporter',
-            demo: 'https://mporter.co',
-            technologies: ['Flask', 'Celery', 'Python'],
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
-            /** categories: ['featured', 'webdev'] **/
-            categories: ['featured','all']
-        },
+    
+    
         
  /**  =================================================================== **/
         
