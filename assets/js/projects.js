@@ -21,7 +21,7 @@ let render_projects = (slug) => {
             categories: ['featured']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
+            image: 'assets/images/Editor2.jpg',
             link: 'https://github.com/abhn/Wall-E',
             title: 'Wall-E',
             demo: 'http://wall-e-jekyll.github.io/',
