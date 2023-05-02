@@ -49,7 +49,7 @@ let render_projects = (slug) => {
         },
    **/
    {
-            image: 'assets/images/copy1.jpeg',
+            image: 'assets/images/editor1.jpeg',
             link: 'https://github.com/abhn/Social-Share-Counts',
             title: 'Social Share Count',
             demo: false,
@@ -58,7 +58,7 @@ let render_projects = (slug) => {
             categories: ['native']
         },
         {
-            image: 'assets/images/copy2.png',
+            image: 'assets/images/editor2.png',
             link: 'https://github.com/abhn/data-destroyer-gui',
             title: 'Data Destroyer',
             demo: false,
@@ -122,7 +122,7 @@ let render_projects = (slug) => {
             description: "Reusing a dead laptop's LCD panel as a secondary monitor.",
             categories: ['diy']
         },
-        **/
+    
         {
             image: 'assets/images/nextcloud-enc.png',
             link: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
@@ -159,6 +159,8 @@ let render_projects = (slug) => {
             description: "A cross-platform desktop application that serves as a Wolfram Alpha query place and notes taker.",
             categories: ['native']
         },
+        
+            **/
     ]
 
     let projects = [];
