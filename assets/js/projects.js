@@ -28,9 +28,25 @@ let render_projects = (slug) => {
             technologies: ['Semantic UI', 'Jekyll'],
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
             /** categories: ['featured', 'webdev'] **/
-            categories: ['featured', 'webdev']
+            categories: ['featured']
         },
 
+ /**  =================================================================== **/
+        
+        {
+            image: 'assets/images/Editor 1.jpg',
+            link: 'https://google.com',
+            title: 'Mporter',
+            demo: 'https://mporter.co',
+            technologies: ['Flask', 'Celery', 'Python'],
+            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+            /** categories: ['featured', 'webdev'] **/
+            categories: ['featured','all']
+        },
+        
+ /**  =================================================================== **/
+        
+        
     ]
 
     let projects = [];
