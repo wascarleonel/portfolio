@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/Copy1.jpg',
+            image: 'assets/images/Editor1.jpg',
             link: 'https://google.com',
             title: 'Mporter',
             demo: 'https://mporter.co',
@@ -21,7 +21,7 @@ let render_projects = (slug) => {
             categories: ['featured']
         },
         {
-            image: 'assets/images/Copy2.jpg',
+            image: 'assets/images/Editor2.jpg',
             link: 'https://github.com/abhn/Wall-E',
             title: 'Wall-E',
             demo: 'http://wall-e-jekyll.github.io/',
