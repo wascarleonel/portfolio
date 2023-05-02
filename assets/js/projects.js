@@ -49,7 +49,7 @@ let render_projects = (slug) => {
         },
    **/
    {
-            image: 'assets/images/editor1.jpeg',
+            image: 'assets/images/Editor1.jpeg',
             link: 'https://github.com/abhn/Social-Share-Counts',
             title: 'Social Share Count',
             demo: false,
@@ -58,7 +58,7 @@ let render_projects = (slug) => {
             categories: ['native']
         },
         {
-            image: 'assets/images/editor2.png',
+            image: 'assets/images/Editor2.png',
             link: 'https://github.com/abhn/data-destroyer-gui',
             title: 'Data Destroyer',
             demo: false,
