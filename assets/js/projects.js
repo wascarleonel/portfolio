@@ -15,8 +15,7 @@ let render_projects = (slug) => {
             link: 'https://google.com',
             title: 'Mporter',
             demo: 'https://mporter.co',
-            technologies: ['Editing', '', ''],
-            /** technologies: ['Flask', 'Celery', 'Python'], **/
+            technologies: ['Flask', 'Celery', 'Python'],
             description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
             /** categories: ['featured', 'webdev'] **/
             categories: ['featured']
