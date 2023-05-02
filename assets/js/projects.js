@@ -17,7 +17,8 @@ let render_projects = (slug) => {
             demo: 'https://mporter.co',
             technologies: ['Flask', 'Celery', 'Python'],
             description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
-            categories: ['featured', 'webdev']
+            /** categories: ['featured', 'webdev'] **/
+            categories: ['featured']
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
@@ -26,6 +27,7 @@ let render_projects = (slug) => {
             demo: 'http://wall-e-jekyll.github.io/',
             technologies: ['Semantic UI', 'Jekyll'],
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
+            /** categories: ['featured', 'webdev'] **/
             categories: ['featured', 'webdev']
         },
 
