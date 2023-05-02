@@ -49,7 +49,7 @@ let render_projects = (slug) => {
         },
    **/
    {
-            image: 'assets/images/social-share-count.jpeg',
+            image: 'assets/images/copy1.jpeg',
             link: 'https://github.com/abhn/Social-Share-Counts',
             title: 'Social Share Count',
             demo: false,
@@ -58,7 +58,7 @@ let render_projects = (slug) => {
             categories: ['native']
         },
         {
-            image: 'assets/images/data-destroyer.png',
+            image: 'assets/images/copy2.png',
             link: 'https://github.com/abhn/data-destroyer-gui',
             title: 'Data Destroyer',
             demo: false,
@@ -66,6 +66,8 @@ let render_projects = (slug) => {
             description: "Native GUI wrapper for GNU coreutils tool 'dd'",
             categories: ['native']
         },
+        
+        /**
         {
             image: 'assets/images/raspberry-pi-monitor.png',
             link: 'https://github.com/abhn/RPi-Status-Monitor',
@@ -120,6 +122,7 @@ let render_projects = (slug) => {
             description: "Reusing a dead laptop's LCD panel as a secondary monitor.",
             categories: ['diy']
         },
+        **/
         {
             image: 'assets/images/nextcloud-enc.png',
             link: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
