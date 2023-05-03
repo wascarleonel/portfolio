@@ -60,7 +60,7 @@ let render_projects = (slug) => {
         
         
         {
-            image: 'assets/images/Editing1.jpeg',
+            image: 'assets/images/Editing1.jpg',
             link: 'https://google.com',
             title: 'Editing',
             demo: 'https://mporter.co',
