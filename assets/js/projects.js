@@ -37,7 +37,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/Editor1.jpg',
             link: 'https://google.com',
-            title: 'Mporter',
+            title: 'Copywriting',
             demo: 'https://mporter.co',
             technologies: ['Flask', 'Celery', 'Python'],
             description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
@@ -47,7 +47,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/Editor2.jpg',
             link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
+            title: 'Copywriting',
             demo: 'http://wall-e-jekyll.github.io/',
             technologies: [],
             /** technologies: ['Semantic UI', 'Jekyll'], **/
@@ -55,7 +55,33 @@ let render_projects = (slug) => {
             /** categories: ['featured', 'webdev'] **/
             categories: ['all','featured']
         },
-                   
+
+/** ------------------- **/        
+        
+        
+        {
+            image: 'assets/images/Editor1.jpg',
+            link: 'https://google.com',
+            title: 'Editing',
+            demo: 'https://mporter.co',
+            technologies: ['Flask', 'Celery', 'Python'],
+            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+            /** categories: ['featured', 'webdev'] **/
+            categories: ['all','featured']
+        },
+        {
+            image: 'assets/images/Editor2.jpg',
+            link: 'https://github.com/abhn/Wall-E',
+            title: 'Editing',
+            demo: 'http://wall-e-jekyll.github.io/',
+            technologies: [],
+            /** technologies: ['Semantic UI', 'Jekyll'], **/
+            description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
+            /** categories: ['featured', 'webdev'] **/
+            categories: ['all','featured']
+        },
+               
+        
  /**  =================================================================== **/
         
         
