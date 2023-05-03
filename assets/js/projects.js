@@ -13,7 +13,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/Copy1.jpg',
             link: 'https://google.com',
-            title: 'Transcription 1',
+            title: 'Transcription',
             demo: 'https://mporter.co',
             technologies: ['Flask', 'Celery', 'Python'],
             description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
@@ -23,7 +23,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/Copy2.jpg',
             link: 'https://github.com/abhn/Wall-E',
-            title: 'Transcription 2',
+            title: 'Transcription',
             demo: 'http://wall-e-jekyll.github.io/',
             technologies: [],
             /** technologies: ['Semantic UI', 'Jekyll'], **/
