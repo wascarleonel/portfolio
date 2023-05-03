@@ -60,7 +60,7 @@ let render_projects = (slug) => {
         
         
         {
-            image: 'assets/images/Editor1.jpg',
+            image: 'assets/images/Editing1.jpg',
             link: 'https://google.com',
             title: 'Editing',
             demo: 'https://mporter.co',
@@ -70,7 +70,7 @@ let render_projects = (slug) => {
             categories: ['all','featured']
         },
         {
-            image: 'assets/images/Editor2.jpg',
+            image: 'assets/images/Editing2.jpg',
             link: 'https://github.com/abhn/Wall-E',
             title: 'Editing',
             demo: 'http://wall-e-jekyll.github.io/',
